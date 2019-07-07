@@ -27,7 +27,7 @@ import "C"
 import (
 	"errors"
 	"fmt"
-	"github.com/AlecAivazis/survey"
+	"github.com/AlecAivazis/survey/v2"
 	"github.com/common-nighthawk/go-figure"
 	lol "github.com/kris-nova/lolgopher"
 	"github.com/msteinert/pam"
